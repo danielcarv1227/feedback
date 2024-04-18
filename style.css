@@ -29,6 +29,7 @@ body {
     background: var(--black-gradient);
     max-width: 412px;
     padding: 32px;
+    border-radius: 30px;
 }
 
 .estrela {
